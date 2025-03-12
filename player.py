@@ -30,7 +30,7 @@ class Player :
 
 
 
-die = Die()
+#die = Die()
 #player = Player(die)
 # print(player.die.roll())
 # print (player.roll_die())
